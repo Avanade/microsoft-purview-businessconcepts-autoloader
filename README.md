@@ -1,6 +1,3 @@
-| :point_up:    | Remember: Change all the information in this file when your project is created, following the comments between the ``` symbols. |
-|---------------|:------------------------|
-
 # microsoft-purview-businessconcepts-autoloader
 
 ```
@@ -20,18 +17,15 @@ Bulk upload csv schema for each Business Concept
 
 
 ```
-
+[![New Ava InnerSource](https://img.shields.io/badge/New-Ava--InnerSource-%23DC4600?labelColor=%23e5e5e5)](https://avanade.github.io/maturity-model/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![GitHub issues](https://img.shields.io/github/issues/Avanade/avanade-template)
 ![GitHub](https://img.shields.io/github/license/Avanade/avanade-template)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Avanade/avanade-template?style=social)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://avanade.github.io/code-of-conduct/)
 [![Incubating InnerSource](https://img.shields.io/badge/Incubating-Ava--Maturity-%23FF5800?labelColor=yellow)](https://avanade.github.io/maturity-model/)
-[![New Ava InnerSource](https://img.shields.io/badge/New-Ava--InnerSource-%23DC4600?labelColor=%23e5e5e5)](https://avanade.github.io/maturity-model/)
-```
-Update the repository URL addresses for the shield templates.
-DELETE THIS COMMENT
-```
+
+
 
 ## Overview
 
