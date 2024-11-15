@@ -1,12 +1,24 @@
 | :point_up:    | Remember: Change all the information in this file when your project is created, following the comments between the ``` symbols. |
 |---------------|:------------------------|
 
-# avanade-template
-> This is an example template for Avanade Open Source and InnerSource projects.
+# microsoft-purview-businessconcepts-autoloader
 
 ```
-Add a short description of your project.
-DELETE THIS COMMENT
+Value:
+Accelerate customer’s migration from Azure Purview to Microsoft Purview. Leverage customer’s existing Data Governance artefacts  and avoid duplicate effort.
+
+Features:
+Simple yet comprehensive set of automation scripts to bulk upload Microsoft Purview Data Catalog business concepts
+Minimal configuration
+Customizable
+
+Building Blocks:
+Microsoft Purview Data Catalog APIs
+Modular Python script for each Business Concept
+Bulk upload csv schema for each Business Concept
+
+
+
 ```
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
@@ -22,11 +34,9 @@ DELETE THIS COMMENT
 ```
 
 ## Overview
-Describe the project in more detail. **This project is an example project, to be used when creating new Avanade Open Source projects.**
 
 ```
-Add a description of your project, and a screenshot if possible.
-DELETE THIS COMMENT
+This project contains Python scripts which can be used to bulk-load an instance of Microsoft Purview with business concepts such as Business Domains, Data Products, Data Assets, Glossary Terms, Critical Data Elements (CDE) and Objectives Key Results (OKR)
 ```
 
 
