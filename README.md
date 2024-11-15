@@ -27,7 +27,7 @@ Bulk upload csv schema for each Business Concept
 ![GitHub Repo stars](https://img.shields.io/github/stars/Avanade/avanade-template?style=social)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://avanade.github.io/code-of-conduct/)
 [![Incubating InnerSource](https://img.shields.io/badge/Incubating-Ava--Maturity-%23FF5800?labelColor=yellow)](https://avanade.github.io/maturity-model/)
-
+[![New Ava InnerSource](https://img.shields.io/badge/New-Ava--InnerSource-%23DC4600?labelColor=%23e5e5e5)](https://avanade.github.io/maturity-model/)
 ```
 Update the repository URL addresses for the shield templates.
 DELETE THIS COMMENT
