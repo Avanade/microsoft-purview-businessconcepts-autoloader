@@ -35,36 +35,21 @@ This project contains Python scripts which can be used to bulk-load an instance 
 
 
 ## Licensing
-avanade-template is UNLICENSED and for internal use only, without legal review. See the Avanade Open Source site to start legal approvals.
-```
-The avanade-template is available under the MIT licence, but subsequent projects created on Avanade InnerSource are not.
-Update the project name and licence.
-DELETE THIS COMMENT
-```
+The microsoft-purview-businessconcepts-autoloader is UNLICENSED and for internal use only, without legal review. See the Avanade Open Source site to start legal approvals.
+
+
 
 ## Solutions Referenced
 
-- [Azure SQL Database ledger tables](https://docs.microsoft.com/en-us/azure/azure-sql/database/ledger-overview?WT.mc_id=AI-MVP-5004204)
-- [Azure Confidential Ledger](https://docs.microsoft.com/en-gb/azure/confidential-ledger/?WT.mc_id=AI-MVP-5004204)
+- [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
+- [ATLAS API for Microsoft Purview](https://learn.microsoft.com/en-us/purview/tutorial-atlas-2-2-apis)
 
 
-```
-These are provided as examples. Include links to components you have used, or delete this section.
-DELETE THIS COMMENT
-```
 
 ## Documentation
 The `docs` folder contains [more detailed documentation](./docs/start-here.md), along with setup instructions.
 
-```
-Add an optional installation or usage section, if the instructions are <3 lines
-e.g.
-### Installation
 
-### Usage
-
-DELETE THIS COMMENT
-```
 
 ## Contact
 Feel free to [raise an issue on GitHub](https://github.com/Avanade/avanade-template/issues), or see our [security disclosure](./SECURITY.md) policy.
@@ -77,10 +62,7 @@ Contributions are welcome. See information on [contributing](./CONTRIBUTING.md),
 
 If you're happy to follow these guidelines, then check out the [getting started](./docs/start-here.md) guide.
 
-```
-Leave the code of conduct unchanged
-DELETE THIS COMMENT
-```
+
 
 ## Who are Avanade?
 
@@ -91,15 +73,4 @@ As Microsoft’s Global SI Partner we combine global scale with local expertise 
 We champion diversity, inclusion, and sustainability, ensuring our work benefits society and business.
 
 Learn more at [www.avanade.com](https://www.avanade.com)
-```
-Leave the boilerplate unchanged
-DELETE THIS COMMENT
-```
 
-```
-If needed, review the Open Source site on the intranet for more information.
-
-Full details at https://avanade.sharepoint.com/sites/opensource and https://community.avanade.com
-
-DELETE THIS COMMENT
-```
