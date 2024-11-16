@@ -14,9 +14,9 @@
 import requests
 
 def get_user_id(user_email):
-    service_principal_id = "ec7313b1-dc75-44d6-a248-1412d06c9f55"
-    service_principal_secret_name = "45L8Q~B_8t36C~LYhtUDoz6BPDG8D8Uc-4qCqaBc"
-    tenant_id = "467750fa-44ec-49d4-ba43-5ae49d501676"
+    service_principal_id = ""
+    service_principal_secret_name = "4"
+    tenant_id = ""
 
     # Token endpoint
     url = f'https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token'
