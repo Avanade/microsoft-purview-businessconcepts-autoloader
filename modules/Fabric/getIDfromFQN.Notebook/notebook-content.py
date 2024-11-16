@@ -22,11 +22,9 @@ access_token = get_token()
 
 # CELL ********************
 
-service_principal_id = "ec7313b1-dc75-44d6-a248-1412d06c9f55"
-service_principal_secret_name = "45L8Q~B_8t36C~LYhtUDoz6BPDG8D8Uc-4qCqaBc"
-tenant_id = "467750fa-44ec-49d4-ba43-5ae49d501676"
-# Replace with the user ID you want to retrieve
-user_email = 'manish.a.gonsalves@avanade.com'
+service_principal_id = ""
+service_principal_secret_name = ""
+tenant_id = ""
 grant_type = "client_credentials"
 resource = "https://purview.azure.net"
 
