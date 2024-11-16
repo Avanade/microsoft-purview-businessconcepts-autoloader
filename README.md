@@ -1,22 +1,22 @@
 # microsoft-purview-businessconcepts-autoloader
 
-```
-Value:
+
+microsoft-purview-businessconcepts-autoloader Value proposition:
 Accelerate customer’s migration from Azure Purview to Microsoft Purview. Leverage customer’s existing Data Governance artefacts  and avoid duplicate effort.
 
-Features:
+microsoft-purview-businessconcepts-autoloader salient features:
 Simple yet comprehensive set of automation scripts to bulk upload Microsoft Purview Data Catalog business concepts
 Minimal configuration
 Customizable
 
-Building Blocks:
+microsoft-purview-businessconcepts-autoloader building blocks:
 Microsoft Purview Data Catalog APIs
 Modular Python script for each Business Concept
 Bulk upload csv schema for each Business Concept
 
 
 
-```
+
 [![New Ava InnerSource](https://img.shields.io/badge/New-Ava--InnerSource-%23DC4600?labelColor=%23e5e5e5)](https://avanade.github.io/maturity-model/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![GitHub issues](https://img.shields.io/github/issues/Avanade/avanade-template)
@@ -29,9 +29,8 @@ Bulk upload csv schema for each Business Concept
 
 ## Overview
 
-```
-This project contains Python scripts which can be used to bulk-load an instance of Microsoft Purview with business concepts such as Business Domains, Data Products, Data Assets, Glossary Terms, Critical Data Elements (CDE) and Objectives Key Results (OKR)
-```
+This project contains Python scripts which can be used to bulk-load business concepts such as Business Domains, Data Products, Data Assets, Glossary Terms, Critical Data Elements (CDE) and Objectives Key Results (OKR) to an instance of Microsoft Purview.
+
 
 
 ## Licensing
@@ -52,11 +51,8 @@ The `docs` folder contains [more detailed documentation](./docs/start-here.md), 
 
 
 ## Contact
-Feel free to [raise an issue on GitHub](https://github.com/Avanade/avanade-template/issues), or see our [security disclosure](./SECURITY.md) policy.
-```
-Update the repo URL.
-DELETE THIS COMMENT
-```
+Feel free to [raise an issue on GitHub](https://github.com/Avanade/microsoft-purview-businessconcepts-autoloader/issues), or see our [security disclosure](./SECURITY.md) policy.
+
 ## Contributing
 Contributions are welcome. See information on [contributing](./CONTRIBUTING.md), as well as our [code of conduct](https://avanade.github.io/code-of-conduct/). Avanade asks that all commits sign the [Developer Certificate of Origin](https://developercertificate.org/).
 
