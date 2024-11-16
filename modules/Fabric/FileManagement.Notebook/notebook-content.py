@@ -22,7 +22,7 @@ from pyspark.sql import SparkSession
 
 # Configure Azure Storage account parameters
 storage_account_name = "strpurviewsaasbusconcept"
-storage_account_key = "9XOrX7zqhv9gpp03/Lz+T5MCwklYCXP66glkIuZz89s8EJfvzAERQ71y9JW6M/mGIHMXZrhtM3XD+ASt3e3LqQ=="
+storage_account_key = ""
 container_name = "strpurviewsaasbusconceptblob"
 mount_point = "/mnt/strpurviewsaasbusconceptblob"
 
