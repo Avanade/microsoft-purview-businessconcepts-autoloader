@@ -17,12 +17,12 @@ import pandas as pd
 from requests import Session
 
 # Configuration constants
-SERVICE_PRINCIPAL_ID = "ec7313b1-dc75-44d6-a248-1412d06c9f55"
-SERVICE_PRINCIPAL_SECRET_NAME = "45L8Q~B_8t36C~LYhtUDoz6BPDG8D8Uc-4qCqaBc"
-TENANT_ID = "467750fa-44ec-49d4-ba43-5ae49d501676"
+SERVICE_PRINCIPAL_ID = ""
+SERVICE_PRINCIPAL_SECRET_NAME = ""
+TENANT_ID = ""
 GRANT_TYPE = "client_credentials"
 RESOURCE = "https://purview.azure.net"
-PURVIEW_GUID = "467750fa-44ec-49d4-ba43-5ae49d501676"
+PURVIEW_GUID = ""
 
 # Initialize session
 session = Session()
