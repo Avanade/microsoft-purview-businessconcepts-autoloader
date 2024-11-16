@@ -70,7 +70,7 @@ access_token = get_token()
 
 csv_name = "data_product.csv"
 df = read_csv_from_adls_lakehouse(csv_name)
-purview_guid = "467750fa-44ec-49d4-ba43-5ae49d501676"
+purview_guid = ""
 url = f"https://{purview_guid}-api.purview-service.microsoft.com/datagovernance/catalog/dataproducts"
 
 succeded_uploads = []
