@@ -29,7 +29,7 @@ This project contains Python scripts which can be used to bulk-load business con
 
 
 ## Licensing
-The microsoft-purview-businessconcepts-autoloader is UNLICENSED and for internal use only, without legal review. See the Avanade Open Source site to start legal approvals.
+The microsoft-purview-businessconcepts-autoloader is released under the MIT licence.
 
 
 
