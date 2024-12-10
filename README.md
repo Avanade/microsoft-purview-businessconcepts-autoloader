@@ -5,7 +5,7 @@ microsoft-purview-businessconcepts-autoloader Value proposition:
 Accelerate customer’s migration from Azure Purview to Microsoft Purview. Leverage customer’s existing Data Governance artefacts  and avoid duplicate effort.
 
 microsoft-purview-businessconcepts-autoloader salient features:
-Simple yet comprehensive set of automation scripts to bulk upload Microsoft Purview Data Catalog business concepts
+Simple yet comprehensive set of automation scripts to bulk upload Microsoft Purview Unified Catalog business concepts
 Minimal configuration
 Customizable
 
