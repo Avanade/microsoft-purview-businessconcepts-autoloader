@@ -64,17 +64,7 @@ def extract_csv_as_df_from_adls(csv_name):
 # META   "language_group": "synapse_pyspark"
 # META }
 
-# CELL ********************
 
-storage_account_name = "strpurviewsaasbusconcept"
-storage_account_key = "9XOrX7zqhv9gpp03/Lz+T5MCwklYCXP66glkIuZz89s8EJfvzAERQ71y9JW6M/mGIHMXZrhtM3XD+ASt3e3LqQ=="
-container_name = "strpurviewsaasbusconceptblob"
-mount_point = "/mnt/strpurviewsaasbusconceptblob"
-
-def  read_csv_from_adls_lakehouse(csv_name):
-    # Load data into pandas DataFrame from "/lakehouse/default/Files/strpurviewsaasbusconceptblob/business_domains.csv"
-    df = pd.read_csv(f"/lakehouse/default/Files/{container_name}/{csv_name}")
-    return df
 
 
 
