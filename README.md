@@ -10,7 +10,7 @@ Minimal configuration
 Customizable
 
 microsoft-purview-businessconcepts-autoloader building blocks:
-Microsoft Purview Data Catalog APIs
+Microsoft Purview Unified Catalog APIs
 Modular Python script for each Business Concept
 Bulk upload csv schema for each Business Concept
 
