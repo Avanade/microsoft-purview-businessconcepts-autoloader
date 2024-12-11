@@ -81,7 +81,7 @@ from pyspark.sql import SparkSession
 import requests
 import json
 import pandas as pd
-purview_guid = "467750fa-44ec-49d4-ba43-5ae49d501676"
+purview_guid = ""
 purview_account_name ="prvw-clothesrus"
 
 # METADATA ********************
