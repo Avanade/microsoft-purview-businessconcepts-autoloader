@@ -55,7 +55,7 @@
 
 # CELL ********************
 
-tenant_id = "467750fa-44ec-49d4-ba43-5ae49d501676"
+tenant_id = ""
 access_token = get_token()
 url = f"https://{tenant_id}-api.purview-service.microsoft.com/datagovernance/catalog/terms/"
 payload = {}
