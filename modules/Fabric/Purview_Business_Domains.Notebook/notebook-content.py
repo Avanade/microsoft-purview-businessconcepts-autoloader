@@ -50,7 +50,7 @@
 
 # CELL ********************
 
-tenant_id="467750fa-44ec-49d4-ba43-5ae49d501676"
+tenant_id=""
 business_domains_df = read_csv_from_adls_lakehouse("business_domains.csv")
 #display(business_domains_df)
 
